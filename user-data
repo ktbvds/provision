@@ -80,7 +80,7 @@ autoinstall:
     - openssh-server
     - open-vm-tools
     - cloud-init
-  timezone: utc
+  timezone: Etc/UTC
   shutdown: reboot
   reporting:
   builtin:
